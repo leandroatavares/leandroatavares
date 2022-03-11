@@ -1,6 +1,8 @@
 ## Hello! Welcome to my Github profile. 🍻 
-### My name is Leandro dos Anjos Tavares [![Linkedin Badge](https://img.shields.io/badge/-leandroatavares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroatavares/)](https://www.linkedin.com/in/leandroatavares/)
+### My name is Leandro dos Anjos Tavares
+[![Linkedin Badge](https://img.shields.io/badge/-leandroatavares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroatavares/)](https://www.linkedin.com/in/leandroatavares/)
 
+<br />
 
  #### 🔭 I’m currently working on ... 
 <div style="display: flex;">
