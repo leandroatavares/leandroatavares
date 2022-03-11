@@ -1,24 +1,24 @@
 ## Hello! Welcome to my Github profile. 🍻 
-### My name is Leandro dos Anjos Tavares
+### My name is Leandro dos Anjos Tavares [![Linkedin Badge](https://img.shields.io/badge/-leandroatavares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroatavares/)](https://www.linkedin.com/in/leandroatavares/)
 
- - 🔭 **I’m currently working on ... **
+
+ #### 🔭 **I’m currently working on ... **
 <div style="display: flex;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40" />
+  <img src="https://img.shields.io/badge/javascript%20-%23f7e01b.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/angular%20-%23f7e01b.svg?&style=for-the-badge&logo=angular&logoColor=black" />
+  <img src="https://img.shields.io/badge/html5%20-%23f7e01b.svg?&style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/css3%20-%23f7e01b.svg?&style=for-the-badge&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/typescript%20-%23f7e01b.svg?&style=for-the-badge&logo=typescript&logoColor=black" />
+  <img src="https://img.shields.io/badge/java%20-%23f7e01b.svg?&style=for-the-badge&logo=java&logoColor=black" />
+  <img src="https://img.shields.io/badge/spring%20-%23f7e01b.svg?&style=for-the-badge&logo=spring&logoColor=black" />
 </div>
 
-- 🌱 ** I’m currently learning ... **
+### 🌱 ** I’m currently learning ... **
 <div style="display: flex;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
-
+  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/nextjs%20-%2300D9FF.svg?&style=for-the-badge&logo=nextjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/express%20-%2300D9FF.svg?&style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/nodejs%20-%2300D9FF.svg?&style=for-the-badge&logo=nodejs&logoColor=white" />
 </div>
 
 
