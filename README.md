@@ -1,5 +1,7 @@
-### Hi there 👋
+## Hello! Welcome to my Github profile. 🍻 
+### My name is Leandro dos Anjos Tavares
 
+**I’m currently working on ...**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40" />
 
 
@@ -8,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
