@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+
+
 <!--
 **leandroatavares/leandroatavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
