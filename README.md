@@ -2,7 +2,7 @@
 ### My name is Leandro dos Anjos Tavares [![Linkedin Badge](https://img.shields.io/badge/-leandroatavares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroatavares/)](https://www.linkedin.com/in/leandroatavares/)
 
 
- #### 🔭 **I’m currently working on ... **
+ #### 🔭 I’m currently working on ... 
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/javascript%20-%23f7e01b.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/angular%20-%23f7e01b.svg?&style=for-the-badge&logo=angular&logoColor=black" />
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/spring%20-%23f7e01b.svg?&style=for-the-badge&logo=spring&logoColor=black" />
 </div>
 
-### 🌱 ** I’m currently learning ... **
+### 🌱 I’m currently learning ... 
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/nextjs%20-%2300D9FF.svg?&style=for-the-badge&logo=nextjs&logoColor=white" />
